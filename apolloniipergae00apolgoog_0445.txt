@@ -1,0 +1,28 @@
+con1connnnrssnn nr. 429
+
+inter se concurrant in Θ, ΓΛ autem et BA productae
+in K, duceturque ΕΘ. dico, esse ΕΘ cd ΓΔ perpen-
+dicularern.
+
+nam si minus, a& ad ΓΔ perpendicularis ducalur
+ΘΛ. quoniam igitur ΛΓΔ Ζ = ΗΔΒ [prop. XLV1], Ι
+
+et [ΔΒΗ = ΔΛΘ (nam recti sunl), trianguli AHB, ·
+ΛΘΔ similes suni iraqueHA2Ac=BA2AA
+[Eucl. VI, 4]. uerum HA2Au=zrzrc [ibid.]‚
+quia anguli cd Z, H· positi reoli sunt [prop. XLV]
+et anguli cd Θ posili aequales3 et [Eucl. VI, 4]
+ΓΖ : rc= Ar: ΓΛ propter similitudinem triangu-
+lorum ΑΖΓ, ΑΓΘ [prop. XLV1]'; quare etiam
+
+BA:AA=AF:FA.
+
+permutando [Eucl. V, 16] AB:I'A=AA:AF.
+uerum AB:FA=BK:KA [Eucl. Vl, 4]; quare
+etiam AAzs'A = BKzKA. ducatur ab E rectae
+ΛΓ parallela EM3 ec igitur ad AB odinale duclc
+eril [I def.4];.et erit ΒΚ :KA =BM :MA [L 36].
+est autem ΒΜ :MA = AErEF [Eucl. Vl, 2]; ita-
+
+ 
+

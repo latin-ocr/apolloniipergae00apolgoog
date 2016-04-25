@@ -1,0 +1,43 @@
+CONICORUM LIBER 111. 421
+
+e contrario [Eucl. V, 7 coroll.] ΒΖ : ΖΚ = AA : ΛΚ.
+componendo [Eucl. V, 18] uel dirimendo [Eucl. V, 17]
+,ΒΚ : KZ = AK: ΚΑ. quare etiam
+
+An: za = ΕΛ : ΓΑ [nuel. VI, 4].
+
+itaque [nuci-V Ι,16] AB><FA=zc><EA=cz><zM
+[Eucl. Ι, 34]. uerum ΘΖ >< ΖΜ = ΖΗ ² [1,·38]‚ hoc
+
+cst quartae parti figurae ad AB adplicatac aequale.
+ergo ἢ etiam AB >< Γ A quartae parti figurae ad AB
+adplicatae aequale est'
+
+XLIII.
+
+Si recta hyperbolam contingit, ab asymptotis ad
+centrum sectionis rectas abscindet rectangulum com·
+prehendentes aequale rectangulo comprehenso rectis
+abscisis a recta in uertice sectionis ad axem posito
+contingenti. ¹
+
+sit hyperbole AB, asymptotae autem ΓΔ, ΔΕ,
+axis autem ΒΔ, et per Β contingens ducatur ZBH,
+alia autem quaenis contingens ΓΑΘ. dico, esse
+
+ZA><AH=FA><Ac
+
+ducantur enim ab A,B rectae AH parallelae ΑΚ,
+ΒΛ, rectae antem ΓΔ parallelae AM, BN. iam
+quoniam ΓΑΘ contingit, erit ΓΑ = Ac[11,3]. quare
+erit ΓΘ-- ΒΘΑ, ΓΔ = ΒΑΜ [Encl. VI, 23 I, 34],
+ΔΘ = ΒΑΚ [Eucl. VI, 4]. iaquc erit
+
+rA><Ac=4KA><AM
+iam codem modo demonstrabimus, esse
+ZA><AH=4AB><BN
+est autem ΚΛ >< ΑΜ = AB >< ΒΝ [Π, 12]. ergo
+etiam ΓΔ >< ΔΘ = ΖΛ >< ΔΗ.
+
+ 
+

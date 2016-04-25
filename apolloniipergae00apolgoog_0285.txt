@@ -1,0 +1,38 @@
+comconuu amna 11. 265
+
+sint A, B, Γ, A sectiones oppositae coniugatus,
+ot recta aliqua sectionem A in duobus punctis E, Ζ
+secet, seceturque ΕΖ in H in duas partes aequales,
+centrum autem sit X, et ducatur XH, rectae autem
+ΕΖ parallela ducatur ΓΧ dico, rectas AX, ΧΓ dia-
+metros coniugatas esso.
+
+nam quoniam AX diametrus est et rectam ΕΖ in
+duas partes aequales secat, recta in A contingens
+rectae EZ parallelo est [prop. V]; quare etiam rectae
+ΓΧ [Eucl. I, 30]. quoniam igitur sectiones oppositae
+sunt, et unam earum A in A contingens ducta est
+recta, a centro autem X ad punctum contactus ducta
+est XA, contingenti autem parallcla ducta est PX,
+rectae XA, ΓΧ diametri coniugatae sunt; hoo eninr
+antea demonstratum est [prop. XX].
+
+XLIV.
+
+Datao coni sectionis diametrum inuenire.
+sit data sectio coni, in qua sunt puncta A, B, Γ,
+A, E. oportet igitur diametrum eius inuenire. ’
+factum sit, sitque ΓΘ. ita·
+Δ que rectis ΔΖ, ΕΘ ordinate,
+ductis productisquc erit
+AZ=ZB, Eo=oA [Idef.4].
+itaque si rectas BA, EA, quaa
+parallelae sunt, positione fixeri-
+mus, data erunt puncta Θ, Ζ.
+A ergo ΘΖΓ positione data epit.
+componetur hoc modo:
+data coni sectio, in qua sunt puncta A, B, F, A
+et parallelae ducantur rectae BA, ΑΕ secentur
+
+ 
+

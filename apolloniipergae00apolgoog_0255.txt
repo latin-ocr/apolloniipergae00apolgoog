@@ -1,0 +1,40 @@
+CONICORUM LIBER 11. 229
+
+ct latera angulos aequales ad K, A positos comprehen-
+dentia proportionalia sunt3 similes igitur sunt trianguli
+EKK ΗΘΛ ct angulos aequales habebunt, sub quibus
+latera correspondentia 'subtendunt [Eucl. VI, 6]. erit
+igitur LEXK = L ΛΗΘ. est autem ctiam '
+LKXH = L ΛΗΧ [Eucl. I, 29];
+
+quare etiam LEXH = l, oHX. ergo EX rectae ΗΘ
+parallcla cst [Eucl. Ι, 27].
+
+iam fiat ΠΗ ε HP= ΘΗ : Σ. itaque Σ dimidia
+cst parametrus diametri Η 0 in sectionibus Γ, Δ
+[1, 51]. et quoniam sectionum A,B altera diametrus
+est ΓΔ [1, 56], etcum ea concurrit ET, erit
+
+ΤΧ >< ΕΚ == PX23
+nam si ab E rectam rectae ΚΧ parallelum duxerimus,
+rectangulum comprehensum recta ΤΧ rectaque a
+parallela abscisa aequale erit quadrato ΓΧ [1, 38].
+propterea autem est ΤΧ : ΕΚ = TX': ΧΓῖ [Eucl.VI,17;
+V def. 9]. est autem [Eucl. VI, 4]
+ΤΧ : ΕΚ = TZ τ ΖΕ = Δ TXZ ε EZX [Eucl. VI, 1]‚
+et [Eucl. Vl, 19]
+TX²=rX²= XTZ:XFII= XTZ : ΗΘΧ [u. Ι, 43].
+itaque TX22nzr= Tzur: raro. quare [Euat V, 9]
+H ΘΧ = XEZ. habent autem etiam 1ΘΗΧ = ΧΕΖ
+[Ευο11,29]; nam parallelae sunt EX, ΗΘ et ΕΖ,
+ΗΧ itaque latera aequales angulos comprehendentia
+in contraria proportione sunt [Eucl. v1‚15]; essl igilur
+noznr=szznr3 quare [nuel. Vl, 16]
+on><HX= ru >< ΕΖ·
+
+ct quoniam est Σε ΘΗ == PH τ ΗΠ, el
+PH: HH= XE: ΕΖ [ΕΜ Ἦν ‘ll
+(parallelae enim sunt), erit etiam Σ ² ΘΗ ““ l ¹¹5² ΕΖ·
+
+ 
+

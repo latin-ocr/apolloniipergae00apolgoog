@@ -1,0 +1,35 @@
+CONIOORUM LIBER 1. 27
+
+nam quoniam conus, cuius uertex est A punctum,
+basis autem circulus ΒΓ, plano per axem secatur,
+et hoc sectionem efficit triangulum ΑΒΓ, in super-
+ficie autem sumptum est punctum Θ, quod in latere
+trianguli ΑΒΓ non est, et ΛΗ ad ΒΓ perpendicularis
+est, recta per Θ rectae ΛΗ parallela ducta, hoc est
+ΘΚ, cum triangulo ΑΒΓ concurret ct ad alteram
+partem superficiei producta a triangulo in duas partes
+aequales secabitur [prop. VH. iam quoniam recta per
+Θ rectae ΑΕ parallela ducta cum triangulo ΑΒΓ con·
+currit etin plano sectionis ΔΖΕ est, in communem
+sectionem plani secantis triangulique ΑΒΓ cadet.
+communis autem planorum sectio est ZH3 itaque
+recta per Θ rectae A E parallela ducta in ΖΗ cadct3
+et ad alteram partem sectionis ΑΖΕ producta a recta
+ZH in duas partes aequales secabitur.
+
+iam igitur aut rectus cst conus, aut triangulus ΑΒΓ
+per axem positus ad circulum ΒΓ perpendicularis est,
+aut neutrum.
+
+prius conus rectus sit. itaque etiam triangulus ΑΒΓ
+ad circulum ΒΓ perpendicularis est [def. 33 Eucl. XI, 18].
+quoniam igitur planum ΑΒΓ ad planum ΒΓ perpen-
+diculare est, et in plano altero ΒΓ ad communem
+corum sectionem ΒΓ perpendicularis ducta est ΑΒ, ΑΒ
+ad triangulum ΑΒΓ perpendicularis est [Eucl. XI def. 4].
+quare ctiam ad omncs rectas eam tangentes et in
+triangulo ΑΒΓ positas perpendicularis est [Eucl. XI
+def. 3l. ergo etiam ad ΖΗ perpendicularis cst.
+
+ 
+

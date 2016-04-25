@@ -1,0 +1,63 @@
+ooruooaun amna n. 283
+
+positione date est3 quare A datum est [dat. 25]. uerum
+etiam Z datum est3 ergo positione data est ΖΑΕ
+[dat. 26].
+
+componetur hoc modo: sit ΑΒ sectio, et ΕΘ, ΘΖ
+
+asymptotae, et datum punctum ΙΖ in altera asym-
+
+ptotarum sectionem continentium positum, secetur-
+
+que in· Δ in duas partes aequales ΖΘ, et per Δ rectae
+
+ΘΕ parallela ducatur ΛΑ, duceturque ZA. et quon·
+
+iam est ΖΔ = A Θ, erit etiam ΖΑ = ΑΕ [Eucl. VI, 2]
+
+ergo propter ea, quae supra demonstrauimus [prop. IX],
+ΖΑΕ sectionem contingit.
+
+iisdem suppositis datum punctum in spatio sub
+
+angulo posito, qui deinceps est rectis sectionem con-
+
+tinentibus, positum sit, et sit K. oportet igitur a K ’
+
+rectem sectionem
+
+contingentem du-
+
+cere. et factum sit,
+
+sitque K A, et ducta
+
+deroducatumita-
+
+que positione data
+
+s erit [dat. 26]. si
+
+igitur in sectione
+
+· datum punctum Γ sumitur, et per Γ rectae ΚΘ par·
+
+allelu ducitur ΓΛ, positione data erit [dat. 28]. et
+
+si ΓΔ in E in duas partes aequales secatur, ductaque
+
+ΘΕ producitur, positione data erit [dat 7, 26], et dia·
+
+metrus erit cum ΚΘ coniugata [I def. 6]. ponatur
+
+igitur ΘΗ ΞΒΘ, et per A rectae ΒΘ parallelo
+
+ducatur AA. itaque quoniam ΚΛ, ΒΗ diametri
+
+coniugatao sunt, et ΑΚ contingens, AA autem rectae
+
+ΒΗ parallelo, erit [I, 383 deff. alt. 3] ΚΘ><ΘΛ
+
+ 
+

@@ -1,0 +1,32 @@
+comooauu amna ΠΙ. ,327
+
+V.
+
+si duae rectae oppositas contingentes inter se
+concurrunt, et in utraque sectione punctum aliquod
+sumitur, ab eoque duae rectae ducuntur altera oon-
+tingeuti parallelo, altera rectae puncta contactus
+coniungenti parallele, triangulus ab iis ad diametrum
+per punctum concursus ductam effectus a triangulo
+ad punctum concursus contingentium absciso differt
+triangulo ad contingentem diametrumquc per punctum
+contactus ductam absciso.
+
+sint oppositae A, B, quarum centrum sit Γ, et
+contingentes EA, A Z in A concurrant, duceturque
+ΕΖ et ΓΔ, quae producatur, et ΖΓ, ΕΓ ductae pro·
+
+ducantur, sumaturque in sectione punctum aliquod
+H, *et per id ducatur ΘΗΚ Λ rectae ΕΖ parallelo,
+HM antem rectae ΔΖ parallelo. dico, esse
+HaM= ΚΘΔ -l- ΚΛΖ.
+quoniam enim demonstrauimus [11, 39 et 38], ΓΔ
+diametrum esse oppositarum, et ΕΖ ad eam ordinate
+dueta est, et ΗΘ rectae ΕΖ parallelo, MH autem
+rectae ΔΖ parallela, erit [I, 45]
+ΜΗΘ -- ΓΛΘ -Ι- ΓΔΖ.
+ergo ΜΗΘ = ΚΘΔ -l- Κ ΖΛ.
+et manifestum est, esse Κ ΖΛ == ΜΗ Κ Δ.
+
+ 
+

@@ -1,0 +1,40 @@
+corticosum amna 1. 29
+
+ne slteigitur rectus conus. iam si triangulus per
+axem poeltus ad circulum ΒΓ perpendicularis est,
+eodem modo demonstrabimus, etiam ΔΕ ad ZH
+perpendicularem esse. ne sit igitur triangulus per
+axem positus ΑΒΓ ad circulum ΒΓ perpendicularis.
+dico, ne ΔΕ quidem ad ΖΗ perpendicularem esse.
+nam si fieri potest, sit. uerum etiam ad ΒΓ perpen-
+dicularis est. ΔΕ igitur ad utramque ΒΓ, ΖΗ perpen-
+dicularis est3 quare etiam ad planum per BF, ZH
+ductum perpendicularis erit [Eucl. XI, 4]. planum
+autem rectarum ΒΓ, ΗΖ est ABI'3 quare ΔΕ etiam
+ad triangulum ΑΒΓ perpendicularis est. itaque etiam
+
+omnia plana per eam ducta ad triangulum ΑΒΓ ·
+
+perpendicularis sunt [Eucl. XI, 18]. uerum inter plana
+per ΑΒ ducta est cIrculus BF, quare circulus ΒΓ ad
+triangulum ΑΒΓ perpendicularis est. Itaque etiam
+triangulus ΑΒΓ ad circulum ΒΓ perpendicularis erit3
+quod contra hypothesim est. ergo ΑΒ ad ΖΗ perpen-
+dicularis non est.
+
+Corollarium.
+
+hInc manifestum est, ZH diametrum esse sectionis
+A ΖΕ [def. 4] , quoniam rectas rectae alicui ΔΕ par· Ι
+allelas ductas in binas partes. aequales secat, et fieri
+posse, ut parallelae a diametro ZH in binas partes
+aequales secentur, etiam si ad angulos rectos non fiat.
+
+VIII.
+
+Si conus per axem plano secatur et alio quoque
+plano secatur, quod basim coni secundum rectam secat
+ad basim trianguli per axem positi perpendicularem,
+
+ 
+

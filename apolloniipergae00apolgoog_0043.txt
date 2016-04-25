@@ -1,0 +1,40 @@
+CONIOORUM LIBER I. 23
+
+concurrere et ad alteram partem coni productam,
+donec oum superficie eius concurrat, a plano trianguli
+ΑΒΓ iu duas partes aequales secari.
+
+ducatur ΑΔ et producatur; concurret igitur oum
+ambitu circuli ΒΓ [prop. I]. concurrat in K, ct aK
+ad ΒΓ perpendicularis ducatur K ΘΛ; itaque ΚΘ
+rectae MN parallelo est [Eucl. I, 28]; quare etiam
+rectae A Ε [Eucl. XI, {³]. ducatur ab A ad Θ recta A Θ.
+iam quoniam in triangulo ΑΘΚ rectae ΘΚ parallela
+est A E, ΔΒ producta cum ΑΘ concurret [Euol. VI, 2]-
+uerum ΑΘ in plano trianguli ΑΒΓ posita est. itaque
+ΛΕ cum plano trianguli ΑΒΓ concurret.
+
+simul demonstrauimus, eam etiam curn ΑΘ oon-
+ourrere. concurrat in Z, ct ΔΖ in directum produca-
+tur, donec oum superficie coni concurrat. concurrat
+in H. dico, esse AZ=ZH.
+
+nam quoniam puncta A, H, A in superficie coni
+sunt, uerum etiam iu plano per A Θ, ΑΚ, ΔΗ, Κ Λ
+ducto, quod triangulus est per uerticem coni [prop. III],
+puncta A, H, Ain communi sectione superficiei coni
+triangulique sunt. itaque linea per A, H, A ducta
+recta est. iam quoniam in triangulo A ΛΚ basi ΚΘΛ
+parallelo ducta est AH, et ab A producta est ΑΖΘ,
+erit ΚΘ : ΘΛ = ΛΖ : ZH. est autem ΚΘ = ΘΛ,
+quoniam in circulo ΒΓ ad diametrum perpendicularis
+est ΚΛ [Eucl. HI, 3]. ergo etiam ΛΖ = ZH.
+
+VII.
+
+Si conus per axem plano secatur et alio quoque
+plano secatur, quod id planum, in quo est basis coni,
+secundum rectam secat aut ad basim trianguli per
+
+ 
+

@@ -1,0 +1,30 @@
+’ OONIOORUM LIBER ΙΙΙ.
+Ι.
+
+si rectae coni sectionem uel circuli ambitum
+contingentes inter se concurrunt, et pcr puncta con-
+tactus diametri ducuntur cum contingentibus con-
+currentes, trianguli ita orti, qui ed uerticem inter se
+positi sunt, aequales erunt.
+
+sit AB coni sectio uel ambitus circuli, et lineam
+AB contingant A Γ, ΒΔ in E concurrentes per A,
+
+A
+
+A&
+
+Β autem diametri sectionis ducantur ΓΒ, ΛΑ cum
+contingentibus in Γ, Δ concurrentes. dico, esse
+
+AAE= ΕΒΓ.
+
+ducatur enim ab A rectae BA parellela AZ;
+ordinate igitur ductu est [I def. 5]. in parabola igitur
+crit [L 42] ΑΔΒΖ = ΑΓΖ, et abluto, quod commune
+cst, ΑΕΒΖ reliquum erit ΑΔΕ -- ΓΒΕ.
+
+in reliquis autem diametri in H centro concurrent.
+
+ 
+

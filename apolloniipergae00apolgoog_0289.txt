@@ -1,0 +1,43 @@
+› courooauu amns 11. 269
+
+erit [Eucl. dat. 30]‚ et ob eausam, quam iudicauimus,
+erit ΕΔ = AZ. quare A datum est. per datum
+igitur punctum A rectae AB positione datae par-
+allela ducta est PA3 ergo ΓΔ positione data est
+[Eucl. dat. 28].
+
+componetur hoc modo: sit data parabola, in qua
+sunt puncta Z, Ε, Α, et eius diametrus ducetur AB
+[prop. XLIV], ad eamque perpendicularis ducatur
+ΒΕ et ad Z producatur. iam si ΕΒ = BZ, mani-
+festum est, AB axem esse [I def. 7]; sin minus, ΕΖ
+in A in duas partes aequales secetur, et rectae ΑΒ
+parallelo ducetur ΓΔ. manifestum igitur, ΓΔ exem
+esse sectionis. nam diametro parallelo ducta, h. e.
+ipsa diametrus [I, 51 corolll, rectam ΕΖ etin duas
+partes aequales et ad angulos rectos secat [Ι def. 7].
+ergo datae parabolae axis inuentus est ΓΔ.
+
+et manifestum est, unum solum axem esse para-
+belae nam si alius quoque erit u,tAB rectae ΓΔ
+parallela erit [I, 51 eoroll.]. et rectam ΕΖ secat3
+quare etiam in duas partes aequales earn seca t[I t.def 4].
+
+itaque BE= ΒΖ; quod absurdum est.
+
+XLVII.
+
+Datae hyperbolae uel ellipsis axem inuenire.
+
+sit ΑΒΓ hyperbola uel ellipsis. oportet igitur
+axem eius inuenire.
+
+inuentus sit et sit K A, centrum autem sectionis sit
+K3 itaque ΚΔ rectas ad eam ordinate ductas in binas
+partes aequales et ad angulos rectos secat [I def. 7¹
+
+dueatur perpendicularis ΓΔΑ, ducanturque Il
+ΚΓ. iam quoniam est ΓΔ = ΛΑ, eritetiam ΓΚ ==.
+
+ 
+

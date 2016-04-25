@@ -1,0 +1,44 @@
+comcoanmumnau 239
+
+ductae enim A Z, ΑΘ producantur, ducaturque ΖΘ.
+et quoniam EZ, ΗΘ productae angulos ΑΖΘ, ΑΘΖ
+secant, hi autem anguli duobus rectis minores sunt
+[Eucl. Ι, 17], ΕΖ, ΗΘ productae inter se concurrent
+extra sectionem, sed intra angulum ΒΑΓ.
+
+iam similiter hoc demonstrabimus, etiam si EZ,
+ΗΘ sectiones contingunt.
+
+XXVI.
+
+si in ellipsi uel circulo duae rectae inter se secant
+non per centrum positae, non in binas partes aequales
+
+inter se secant.
+nam si fieri potest, in ellipsi uel circulo duae
+rectae ΓΔ, ΕΖ non per centrum positae inter se in
+B binas partes aequales se-
+
+cent inH, centrum autem
+pvht sect ionis sit Θ, duct taque
+ΗΘ ad A, B producat ur.
+A'wt iam quoniam AB dia-
+met rus est rectam ΕΖ m
+
+duas partes aequales se·
+cans, recta 1n A contingens rectae ΕΖ parallela est
+[prop.VI]. similitertrgitur demonstrabimus, eam etiam
+rectae ΓΔ parallelam esse. quare etiam ΕΖ rectae ΓΛ
+parallela est [Eucl. Ι, 30], quod fieri non potest.
+ergo ΓΔ, ΕΖ inter se in binas partes aequales non
+
+secant.
+XXVII.
+
+Si ellipsim uel circulum duae rectae contingunt,
+rectae contingentes parallelae erunt, si recta puncta
+contactus coniungens per centrum sectionis cadit, sin
+minus, in eadem parte centri concurrent.
+
+ 
+

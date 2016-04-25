@@ -1,0 +1,41 @@
+cornocaun nmsa'n. 261
+
+AB diametri sunt coniugatus. et ΓΘ ad diametrum
+secundam ordinate ducta est, sectionem contingens
+autem ΓΕ oum secunda diametro concurrens, itaque ·
+[I, 38] rectangulum EX >< ΧΘ aequale est quadrato
+dimidiae secundae diametri, hoc est quartae parti
+figurae ad AB adplicatos [I def. alt. 3]. et quoniam
+ΖΕ ordinate ducta ost, et ducta est ΖΘ, propterea
+ΖΘ sectionem A contingit [I, 38]. eadem de causa
+’ etiam ΗΘ sectionem B contingit. ergo ΖΘ, ΘΗ sec-
+tiones A, B contingunt. ·
+
+XLI.
+
+Si in oppositis duae rectae inter se secant non
+per centrum ductae, in binas partes aequales inter se
+non secant.
+
+sint A, B sectiones oppositae, et in A, B duae
+rectae ΓΒ, ΑΔ non per centrum ductae in E inter
+se secent dico, eas in binas partes aequales inter
+se non secare.
+
+nam si fieri potest, secent, centrum autom. seo·
+tionum sit X, et ducatur EX3 EX igitur diametrus
+
+A est [prop. xxxvm. duca·
+tur per X rectae ΒΓ par-
+allelo XZ, XZ igitur dia-
+metrus est et cum EX
+coniugata [ibid.]. itaque
+reetaianontingens rectae
+
+EX parallela est [Ι def. 6]. iam eadem-de causa
+ducta ΘΚ rectae ΑΔ parallela recta in Θ contingens
+rectae EX parallela est3 quare etiam recta in Z con-
+tingens rectae in Θ contingenti parallelo est [Eucl. I, 301:
+
+ 
+

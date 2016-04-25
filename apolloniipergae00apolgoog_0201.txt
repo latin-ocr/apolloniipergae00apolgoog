@@ -1,0 +1,40 @@
+comooncn monn L 171
+
+etiam communie eorum sectio ΠΔΡ ad ΖΗΘ perpen-
+diculeris esi [Eucl. XI, 19]; quare etiam cd omnes rectas
+erm tangenios et in eodem plano positas rectos an-
+gulos officit [Eucl. XI def. 3]. et quoniam conus, cuius
+basis θεὲ ΗΘ circulus, uertex autem Z, plano sectus
+cst nd triangulum ΖΗΘ perpendiculari, uerum etiam
+clio plano secius est, subiacenti scilicet, secundum
+rectam ΠΛΡ ad ΗΔΘ perpendicularem, ct communis
+sectio plani subiacentis trianguliquo ΗΖΘ, hoc est
+AB, ad B uersus producta cum ΗΖ in A concurrit,
+propter ca, quae antea demonstrauimus [prop. XII]‚
+hyperbole erit HBP, cuius uertex est B punctum,
+moine autem ad ΒΛ ordinate ductae in recto angulo
+ducentur3namrecbae H APparallclae erunt. eiquoniam
+estAB1BF=EK:KM, ecEK2KM=EN2Nz
+[Eucl. VI, 2] = EN >< N Z : N 2², erit·
+AB:BP=E·N><NZ:NZ².
+est eutem
+EN >< ΝΖ = AN >< ΝΒ [ΕυοΙ. 111, 35].
+
+quere
+AB:PB =AN><NB:NZ².
+
+est autem
+
+AN><NB=Nz²=(AN:Nz)><(BN:Nz),
+ek
+
+AN: ΝΖ = AA2AH= ZO: OH [Eucl. VI, ],
+οὺ [ib.] BN:NZ=20: ΟΘ. itaque
+AB:BF=(zo:0H)><(20:0c)=zo22H0><0o
+quare A1323r=zo2=H0><0n et ΖΟ rectae
+ΑΔ parallelo est. crgo AB latus transuersum est,
+rectum autem ΒΓς haec enim in propositione XII
+demonstrata sunt.
+
+ 
+

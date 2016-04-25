@@ -1,0 +1,41 @@
+corleonem LIBER Π. 257
+
+coniugata recta erit per centrum ducta rectae puncta
+contactus coniungenti parallelo.
+
+sint A, B sectiones oppositae, sectionesque contin-
+gant PX, ΧΔ, et ducatur ΓΔ seceturque in dua-s
+partes aequales in E, et ducatur EX dico, EX dia·
+metrum esse, recta quae uocatur, transuersam autem
+cum ea coniugatam
+A rectam per centrum
+rectae ΓΔ parallelum
+
+ductam.
+sit enim, si fieri
+potesqnz diametrus,
+et sumatur prmctum
+aliquod Z3 AX igi· ·
+tur cum ΕΖ con-
+curret. concurrat in
+Z, duceturque FZ3 ΓΖ igitur cum sectione oon-
+curret [1, 32]. concurrat in A, et per A rectae ΓΔ
+parallelo ducatur ΑΒ. iam quoniam EZ diametrus
+est et rectem ΓΔΙ in duas partes aequales secat,
+etiem rectas ei parallelas in binas partes aequales
+secat [I def. 4]. itaque A H = ΗΒ. et quoniam est
+rn=nA‚ et in triangulo sunt ΓΖΔ, erit etiam
+AH=HK [Eucl. V1‚4]. quare etiam HK=HB3
+quod fieri non potest. ergo ΕΖ diametrus non erit.
+
+XXXIX.
+
+si duae rectae concurrentes oppositas contingunt,
+recta per centrum punctumque concursus contingentium
+ducta rectam puncta contactus coniungentem in duae
+
+partes aequales secat.
+Apolloniae, ed Heiberg. Ἦ
+
+ 
+

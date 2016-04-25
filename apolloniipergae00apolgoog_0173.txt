@@ -1,0 +1,43 @@
+comcoamrnmaoi 141
+
+eidem aequalis est3 nom in figuris, quoe iis duplo
+maiores sunt, hoc demonstratum est in propositione
+XLI. quoniam igitur triangulus ΓΔΑ a ΓΚΘ siue
+ΓΔΘ differt triangulo in ΑΘ descripto simili trian-
+gulo ΓΔΑ, uerum ctiam triangulo ΓΘΑ differt, trion·
+gulos ΓΘΑ triangulo in ΑΘ descripto simili trian-
+gulo ΓΔΑ aequalis cst quoniam igitur triangulus
+ΒΖΕ triangulo ΓΔΑ similis est [Eucl. Ι, 29] et ΗΖΘ
+triangulo ΓΔ Θ, candem rationem habene). e ΒΖΕ
+in ΝΘ descriptus cst inter rectam ordinatam centrum-
+que, ΗΖΘ autem in BN ordinate ducta siue ΖΘ; et
+propter eo, quac antea demonstrata sunt [prop. XLI],
+ΒΖΕ ab ΗΘΖ differt triangulo in Α Θ descripto simili
+triangulo ΓΔΑ. orgo etiam triangulo ΓΑΘ differt.
+
+XLVI.
+
+si recto parabolam contingens cum diametro con-
+currit, recto per punctum contactus diametro parallelo
+ducta ad partes sectionis uersus rectas in sectione
+contingenti parallelas ductas in binos partos aequales
+secabit.
+
+sit parabola, cuius diametrus sit ABA, et sectio-
+nem contingat ΑΓ, per Γ autem rectae ΑΔ parallelo
+ducatur ΘΓΜ, et in sectione sumatur punctum ali·
+quod A, duceturque rectae A Γ parallelo ΑΝ ΖΕ.
+dico, esse AN = NZ.
+
+ducantur ordinate ΒΘ, ΗΖΚ, ΑΜΔ. quoniam
+
+igilur P1'0Pler ea, quoe in propositione XLII demon-
+
+1) Hoc ost: latera eandem inter se rationem habent
+(Encl. VI, 4); itaque in proportione PK: K Θ cet. substitui
+
+unt rationes laterum triangulorum BZE, ΗΖ Θ, ita ut con·
+lupello propositionis 41 satis fiat.
+
+ 
+

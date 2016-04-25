@@ -1,0 +1,34 @@
+CONIOORUM LIBERI. 15
+
+nam quoniam linea ab A ad Β
+ducta communis est sectio plani se·
+cantis et superficiei conicae, recteest
+ΑΒ. et eadem de causa ΑΓ. uerum
+etiam ΒΓ recta est. itaque ΑΒΓ
+
+ptriangulus est.
+ergo si conus plano per uerticem secatur, sectio
+triangulus est.
+IV.
+si utralibet superficies earum, quae ad uerticem
+sunt inter se, plano secatur aliquo ci circulo parallelo,
+per quem fertur recta superficiem describens, planum
+intra superficiem comprehensum circulus erit centrum
+in axe habens, figura autern a circulo et superficie
+
+conica plano secante abscisa ad uerticem comprehensa
+conus erit.
+
+sit superficies conica, cuius uertex sit A punctum,
+circulus autem, per quem fertur recta superficiem
+
+describens, ΒΓ, et secetur plano aliquo circulo ΒΓ
+parallelo, et hocin superficie sectionem efficiat lineam
+ΛΕ. dice, lineam Aa circulum esse centrum in axe
+habentem.
+
+sumatur enim Z centrum circuli ΒΓ, et ducatur
+AZ. axis igitur est [def. 1] et cum plano secante
+
+ 
+

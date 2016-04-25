@@ -1,0 +1,33 @@
+coruoouuu cucur 1. 13
+
+ad rectam 31⁵3 triangulus enim ΒΓΑ in uno plano
+positus cst [Eucl. XI, 2]. cadat in H. iam quoniam
+H intra superficiem conicam cst, etium ΑΗ intra
+superficiem conicum cst [prop. I coroll.]; quare ctiam
+Z intra superficiem conicum est. similitor igitur
+demonstrabimus, ctiam omnia puncta rectae A E intra
+superficiem esse3 itaque ΛΕ iutra superficiem cst.
+
+iam ΔΕ ad Θ producatur. dico, eam extra super·
+ficiem conicum cadere. num si ficri potest, pars cius
+aliqua uelut Θ extra superficiem conicum ne sit, ct
+ducta ΑΘ producatur. cadet igitur aut in ambitum
+circuli aut intra [prop. I ct coroll.]; quod fieri non
+potest. cadit enimin ΒΓ productum ut in K. itaque
+ΕΘ extra superficiem est.
+
+ergo ΔΕ intro superficiem conicum est, producta
+autem in directum extra.
+
+III.
+
+Si conus per uerticem plano secatur, sectio trian-
+gulus ost.
+
+sit conus, cuius uertex sit A punctum, basis autom
+circulus ΒΓ, et secetur plano utiquo per A punctum,
+et hoc sectiones efficiat in superficie lineas AB ‚ ΑΓ,
+in basi autem rectam ΒΓ. dico, ΑΒΓ triangulum csse.
+
+ 
+

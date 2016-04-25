@@ -1,0 +1,43 @@
+comconuu amau 111. 339
+
+ABMN, K ΞΟ ΥΠ rectae ΑΔ parallelae, rectae autem
+ΑΕ parallelae ΒΞΡ, ΛΚΣ. dico, esse ΒΠ = KP.
+
+nam quoniam demonstratum est [prop. XI coroll.],
+esse A ΟΠ = K ΟΕΣ et ΛΜΝ = BMEP, erit
+K P-:- ΒΟ = M H
+uel1) KP -Ι- ΒΟ = ΜΠ. et communi adiecto uel
+ablato ΒΟ, erit ΒΠ = ΞΣ.
+
+ΧΙΙΙ.
+
+si in oppositis coniugatis rectae sectiones deinceps
+positas contingentes inter se concurrunt, et per puncta
+contactus diametri ducuntur, aequales erunt trianguli,
+quorum uertex communis centrum est oppositarum.
+sint oppositae coniugatae, in quibus sint puncta
+A, Β, Γ, Δ, et sectiones A, Β contingant ΒΕ, ΑΕ
+in Ε concurrenteS, centrum
+autem sit Θ, et ductae ΑΘ,
+ΒΘ ad A, Γ producantur.
+
+dico, esse ΒΖΘ -- ΑΗΘ.
+l( ducentur enim per Α, Θ
+rectae ΒΕ parallelae ΑΚ,
+ΛΘΜ. iam quoniam sectionem Β contingit ΒΖΕ,
+et per punctum contactus diametrus duct-a est ΑΘΒ,
+et rectae ΒΕ parallela est AM, AM diametrus est
+eum diametro BA coniugata, secunda diametrus quae
+uocatur [11,20]; qua de causa ΑΚ ad BA ordinate
+ducta est [I def. 6]. et AH contingit3 itaque en't [1, 38]
+
+ΚΘ >< ΘΗ = Bff. quare [Eucl. VI, 17]
+Ke:cB=Bu:Hc.
+
+uerum ΚΘεΘΒ =KAzBZ=Ac2cZ [Eucl. VI, 4];
+
+1) In secunda figura.
+ΒΕ*
+
+ 
+

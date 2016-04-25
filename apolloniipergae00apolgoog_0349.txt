@@ -1,0 +1,42 @@
+componun amaa 111. 331
+
+supponantur enim, quae antea diximus, et in utra-
+que sectione puncta sumantur K, Λ, per eaque rectae
+A Z parallelae ducantur MK 11 PX, ΝΣ ΤΛ a, reotae
+autem BH parallelae NI ΟΚΞ, ΧΦΥΛΨ. dice, eue-
+nire, quae in propositione diota sunt.
+
+nam quoniam est A01= ΡΟ [prop. 11], commune
+adiioiatur Ε 03 itaque erit ΑΕΖ = K E. est autem
+etiam [u. Eutooiua ad prop. VI] BEH = AE, et
+[prop. 1] ΑΕΖ = BHE3 itaque etiam ΛΕ == IKPE.
+commune adiicietur NE3 ergo TK =1A3 et etiam
+K Y = ΡΛ.
+
+VIII.
+
+Iisdem suppositis pro K, A sumantur Γ, Λ, in qui-
+bus diametri oum sectionibus concurrant, per eaque
+ducantur rectae contingentibus parallelae.
+
+dice, esse ΔΗ = ΖΓ, EI = OT.
+
+quoniam enim demonstrauimus, esse AHo= ΘΒΖ
+[prop. 1], et reeta ab A ad Β ducta rectae ab H ad
+
+Z duotae parallelo eat
+[11, 39 et Pappi lemma 1],
+s erit [Euol. VI, 4]
+AE2EH=BE:EZ;
+et conuertendo
+' uA2AH=nazaz
+, [Euol. V, 19 coroll.]. est
+autem etiam
+rnzrnenamm
+nam utraque utraque duplo maior est [I, 30]. ex
+aequo igitur [Euol. V, 20] ΓΑ : AH = AB2BZ. et
+trianguli similes sunt propter parallelas3 itaque
+ΓΤΑ : ΑΘΗ = ΞΒΔ : ΘΒΖ [Euol. VI, 19].
+
+ 
+

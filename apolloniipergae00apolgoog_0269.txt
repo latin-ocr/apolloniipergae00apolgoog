@@ -1,0 +1,40 @@
+corneorum amaa 11. 245
+
+XXX.
+
+Si coni sectionem uel circulum duae rectae eon·
+tingentes concurrunt, diametrus a puncto concursus
+ducta rectam puncta contactus coniungentem in duas
+partes aequales secabit.
+
+sit ΒΓ coni sectio uel circulus, eamque contingentes
+duae rectae ducantur BA, A Γ in A concurrentes, et
+ducatur ΒΓ, per A autem diametrus sectionis ducatur
+AA. dico, esse AB =A11
+
+ne sit enim, sed, si fieri potest, sit ΒΕ = ΕΓ,
+duceturque AE3 Aa igitur diametrus est sectionis
+[prop. XXIX]. uerum etiam ΑΛ diametrus est3 quod
+absurdum est. nam siue ellipsis est sectio, A punctum,
+in qno diametri inter se concurrunt, centrum erit
+sectionis extra sectionem positum3 quod fieri non
+potest3 siue sectio parabola est, diametri inter se con·
+currunt [eontra I, 51 coroll.]; siue hyperbole est, et
+BA, ΑΓ cum sectione concurrunt puncta concursus
+non comprehendentes, punctum earum concursus intra
+angulum hyperbolem comprehendentem positum est
+[prop. XXV extr.]; uerum etiam in eo positum est3
+nam supposuimus, centrum id esse, siquidem diametri
+sant AA, AE3 quod absurdum est. ergo non est
+ΒΕ = ΕΓ.
+
+XXXI.
+
+¹Si utramque oppositam duae rectae contingunt,
+contingentes parallelae erunt, si recta puncta contactus
+coniungens per centrum cadit, sin minus, in ¹eadem
+parte concurrent, in qua est centrum.
+sint sectiones oppositae A, B, easque contingant
+
+ 
+

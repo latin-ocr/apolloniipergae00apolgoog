@@ -1,0 +1,37 @@
+corneorum amun 1. 103
+
+partes ad uerticem positae inter se respondeant, recta
+punctum in latere· transuerso sumptum punctumque
+in sectione sumptum coniungens sectionem continget.
+sit hyperbole uel ellipsis uel ambitus circuli, cuius
+diametrus sit A B, et in sectione punctum aliquod
+sumatur Γ, et a Γ ordinate ducatur ΓΔ, et fiat
+aA2AA=nn2nA
+duceturque ΕΓ. dico,
+⁵ '³3 ,2 ΓΕ sectionem con-
+tingere.
+nam si fieri potest,
+secet ut ΕΓΖ, etin ea punctum aliquod sumatur Z,
+ordinateque ducatur H ΖΘ, et per A, B rectae ΕΓ
+parallelae ducantur AA, ΒΚ, et ductae ΔΓ, ΒΓ, ΗΓ
+ad puncta M, Ξ, Κ producantur. et quoniam est
+BA2AA=BE:EA,
+cst autem etiam
+BA: ΔΑ = BK: AN [Euol. VI, 4],
+ct [Euol. VI, 2] ι
+ΒΕ : ΑΕ == ΒΓ : ΓΞ = ΒΚ : ΞΝ [Eucl. VI, 4]‚
+erit
+BK:AN=BK:NE.
+itaque AN = Ν Ξ [Eucl. V, 9]. quare
+AN >< ΝΞ > AO >< ΟΞ [Eucl. ΙΙ, 5].
+itaque ΝΞ : ΞΟ > OA : AN [u. Eutociusl. est autem
+Na: ΞΟ = KB :BM [Eucl. VI, 4].
+itaque KB : ΒΜ > OA : AN. quare
+KB><AN>MB><AO.
+itaque ΚΒ><ΑΝτΓΕ2>ΜΒ><ΑοεΓΕ2 [Euol.V,8].
+
+ra. r, a, M surrey. ss. ἡ. Nu] a ga v, seu 0 uu. m. 1;
+corr. cp.
+
+ 
+

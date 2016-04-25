@@ -1,0 +1,34 @@
+comconun nmen 111. 329
+
+VI.
+
+Iisdem suppositis siin altera oppositarum punctum
+aliquod sumitur, et ab eo rectae contingentibus par·
+allelae ducuntur et cum contingentibus et cnm dia·
+metris concurrentes, quadrangulus ab iis adulteram
+contingentium alteramque diametrum effectus aequalis
+erit triangulo ad eandem contingentem alteramque
+diametrum orto.
+
+sint oppositae, quarum diametri sint ΑΕΓ, ΒΕΔ,
+εὴ sectionem AB contingant ΑΖ,“ ΒΗ inter se in Θ
+
+concurrentes, sumatur autem in sectione punctum ali-
+quod K, ab eoque contingentibus parallelae ducantur
+KMA, ΚΝΞ. dico, esse KZ⁴= AIN.
+
+iam quoniam AB, ΓΔ sectiones oppositae sunt,
+et sectionem AB contingit ΑΖ cum BA concurrens,
+rectae antem ΑΖ parallela ducta est K A, erit [prop. II]
+
+AIN= KZ.
+VII.
+
+Iisdem suppositis si in utraque sectione puncta
+aliqua sumuntur, et ab iis contingentibus parallelae
+ducuntur rectae etcum contingentibus etcum diametris
+concurrentes, quadranguli rectis ita ductis effecti et in
+diametris collocati inter se aequales erunt.
+
+ 
+

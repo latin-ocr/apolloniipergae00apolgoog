@@ -1,0 +1,39 @@
+comcosun nmen 11. 295
+
+ut ΜΚς 211112, ite ΧΑὓ sd aliam magnitudinem, erit
+ed 'magnitudinem minorem quam Az² [lluol. V, 8];
+et recte eX ad punctum sumptum ducta triangulos
+similes efficiet [Eucl. Vl, 6], et ideo erit
+L ZXA > H M K. ¹)
+ponatur igitur LA ΧΓ = H MK, ΧΓ igitur sectionem
+secabit [prop. II]. secet in Γ, et a Γ sectionem contin·
+gens ducatur ΓΔ [prop. XLIX], et ΓΕ perpendicularis3
+itaque triangulus ΓΧΕ triangulo HMK similis est.
+quere Xll²z ΕΓ2 == MK² : KH² [llnol. VI, 4]. est
+sutem etiam, ut latus transuersum ad rectum, ita
+XE><EA=EP¹ [I, 37] et MK><Ktl= KH2. et e
+contrario [Eucl. V, l coroll] erit
+Ps²zxs><EA=HK22MK>< ΚΘ.
+ex aequo igitur [Illucl. V, 20]
+XE22XE><EA=MK22MK>< ΚΘ.
+
+quare etiem ΧΕ : ΕΔ = MK: ΚΘ. erat autem etiam
+PE: EX = HK: K M. ex aequo igitur [Eucl. V, 20]
+ΓΕ t EA = HK ε ΚΘ. et anguli ad E, K positi recti
+sunt3 itaque LA = Hel< [Eucl. VI, 6].
+. Iam sit sectio ellipsis, cuius exis sit ΑΒ. oportet
+igitur rectam sectionem contingentem ducere, quse sd
+exem ed eosdem partes, in quibus est sectio, sn-
+guium comprehendet dato angulo acuto aequalem.
+
+lactum sit, sitque ΓΔ; itaque [ΓΔΑ dotus est.
+perpendicularis ducetur PE, itaque ratio All2 : w
+dats est [dat. 1]. sit Χ centrum sectionis, et ducatur
+ΓΧ. itaque ratio 1⁷32: AE>< EX data est; nam
+
+1) Nem ob similitudinem trianguli HMK eiusque, quem efficit
+recte a Χ sd sumptum punctum (cc) ducta, erit L H M K = AX cc,
+et L AXoe<AKZ, quia Ax< ΑΖ.
+
+ 
+

@@ -1,0 +1,41 @@
+comconuu amna u. 243
+
+[uu01.1,30]. et ΗΘ diametrus est; itaque ΓΘ = ΘΛ
+[Ι def. 4]. quod absurdum est3 supposuimus enim, esse
+FE= EA. itaque ΗΘ diametrus non est iam
+similiter demonstrabimus, ne aliam quidem ullam
+diametrum esse praeter EZ. ergo ΕΖ diametrus
+sectionis erit.
+
+XXIX.
+
+Si in ooni sectione uel circulo duae rectae oon·
+tingentes concurrunt, recta a puncto earum concursus
+ad punctum medium rectae puncta contactus coniun-
+gentis ducta diametrus sectionis est.
+
+sit coni sectio uel circulus, quam contingentes
+ducantur rectae AB, ΛΓ in A concurrentes, et ducta
+ΒΓ in A in duas partes aequales secetur, duceturque
+
+ΑΔ. dico, eam diametrum sectionis esse.
+
+nam si fieri potest, sit AE diametrus, duceturque
+EF3 ea igitur sectionem secabit [I, 35-36]. secet
+in Z, et per Z rectae ΓᾸΒ parallela ducatur ZKH.
+iam quoniam ΓΔ == AB, erit etiam [Euol. Vi, 4]
+ΖΘ = ΘΗ. et quoniam recta in A contingens rectae
+ΒΓ parallela est [prop. V-VI], et etiam ZH rectae
+ΒΓ parallela est, erit etiam ΖΗ rectae in A oon-
+tingenti parallela. itaque ΖΘ == ΘΚ [1, 46-47];
+quod fieri non potest. itaque ΔΕ diametrus non est.
+iamrsimiliter demonstrabimus, ne aliam quidem ullam
+diametrum esse praeter ΑΔ.
+
+Halley. 17. ἐστίν - 18. ἴση] om. V, oorr. Memus. 19. Α]
+cv, corr. ex A m. 1 V. 20. ἔστι] καὶ ἔστι V, corr. Memus
+
+Kb*
+
+ 
+

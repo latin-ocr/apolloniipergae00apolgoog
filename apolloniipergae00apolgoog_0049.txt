@@ -1,0 +1,38 @@
+ecmccnuu ursan 1. 29
+
+ne sittigitur rectus conus. iam si triangulus per
+axem positus ad circulum ΒΓ perpendicularis est,
+ecdem modo demonstrabimus, etiam ΛΕ ad ΖΗ
+perpendicularem esse. ne sit igitur triangulus per
+axem positus ΑΒΓ ad circulum ΒΓ perpendicularis.
+dico, ne ΔΕ quidem ad ZH perpendicularem esse.
+nam si fieri potest, sit. uerum etiam ad ΒΓ perpen-
+dicularis est. ΔΕ igitur ad utramque BF, ZH perpen-
+dicularis est, quare etiam ad planum per ΒΓ, ΖΗ
+ductum perpendicularis erit [Eucl. XI, 4]. planum
+autem rectarum ΒΓ, ΗΖ est ΑΒΓ; quare ΛΕ etiam
+ad triangulum ΑΒΓ perpendicularis est. itaque etiam
+omnia plana per eam ducta ad triangulum ΑΒΓ
+perpendicularia sunt [Eucl. XI, 18]. uerum inter plana
+per ΛΕ ducta est circulus ΒΓ; quare circulus ΒΓ ad
+triangulum ΑΒΓ perpendicularis est. itaque etiam
+triangulus ΑΒΓ ad circulum ΒΓ perpendicularis erit;
+quod contra hypothesim cst. ergo ΔΕ ad ZH perpen-
+dicularis ncn est.
+
+Corollarium.
+
+hinc manifestum est, ZH diametrum esse sectionis
+ΔΖΕ [def. 4] , quoniam rectas rectae alicui ΛΕ par-
+allelas ductas in binas partes. aequales secat, et fieri
+posse, ut parallelae a diametro ZH in binas partes
+aequales secentur, etiam si ad angulos rectos ncn fiat.
+
+VIII.
+
+Si conus per axem plano secatur et alio quoque
+plano secatur, quod basim ccni secundum rectam secat
+ad basim trianguli per axem positi perpendicularem,
+
+ 
+

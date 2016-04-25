@@ -1,0 +1,37 @@
+courcoaun arnan 111. 355
+
+XVIII.
+
+Si duae rectae oppositas contingentes concurrunt, et
+inaltcrutre sectionum sumiturpunctum aliquod, ab eoque
+recta alteri contingentium parallelo ducitur sectionem
+
+ν alteramque contingentem secans, erit, ut quadrata
+contingentium inter se, ita rectangulum comprehen-
+sum rectis inter sectionem contingentemque positis
+ad quadratum rectae ad punctum contactus abscisae.
+
+sint oppositae AB, MN contingentesquc ΑΓΛ,
+Β ΓΘ et per puncta contactus diametri AM, BN,
+
+sumaturque in sectione MN punctum aliquod A, et
+per id rectae ΒΘ parallela ducatur EAZ. dico, csse
+Bs² ε ΓΑ2 = ZE >< ΕΔ : Ant
+
+ducatur enim per Δ rectae A E parallelo ΛΞ.Δ iam
+quoniam hyperbole est AB et diametrus eius BN ’
+contingensque ΒΘ et rectae ΒΘ parallelo AZ, erit
+[1, 48] ΖΟ = OA. ct adiecta cst ΕΛ; itaque erit
+
+[Eucl. ss, 6] ΖΕ >< ΕΛ -Ι- ΛΟ2 = 30². ct quoniam
+EA, ΔΞ parallelae sunt, trianguli ΕΟΛ, Aac similes
+sunt [Eucl. Ι, 29]; itaque ΕΟ2 : ΕΟΛ -- A0² : ΞΔΟ
+[Eucl. VI, 193 V, 1613 quare etiam reliquum
+
+Δ Ε >< EZ: ΔΛ = ΕΟ2 : ΕΟΛ [Eucl. V, 19].
+
+est autem ΟΕ2 : ΟΕΛ = ΒΓ2 : ΒΓΑ [ΕιιοΙ. VI, 193
+23*
+
+ 
+

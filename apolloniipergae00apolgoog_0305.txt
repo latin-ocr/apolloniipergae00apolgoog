@@ -1,0 +1,40 @@
+corneorum amna 11. 235
+
+quartae parti figurae ad ΒΗ adplicatae aequale. itaque
+ΚΘ >< ΘΛ datum est. et ΚΘ data est [dat. &tlh
+itaque etiam ΘΛ data est [dat. 57]. uerum etiam
+positione data est3 et Θ datum est3 itaque etiam A
+datum est [dat 27]. et per A rectae ΒΗ positione
+datae parallela ducta est AA3 itaque ΛΑ positione
+data est [dat 28]. uerum etiam sectio positione datu
+est3 itaque A datum est [dat. 25]. uerum etiam K
+datum est3 ergo ΑΚ positione date est [dat. 26].
+
+componetur hoc modo: cetera eadem supponantur,
+datum autem punctum K in spatio positum, quod
+significauimus, et ducta ΚΘ producatur, sumaturque
+punctum aliquod P, et rectae ΚΘ parallelo ducatur
+ΓΔ, seceturque in E in duas partes aequales ΓΔ, et
+ducta ΕΘ producatur, ponaturque ΘΗ = Bo3 itaque
+ΗΒ diametrus transuersa est cum ΚΘΛ coniugata
+[Ι def. 6]. ponatur igitur Κ Θ >< ΘΛ quartae parti
+figurae ad ΒΗ adplicatae aequale, et per A rectae
+ΒΗ parallela ducatur AA, ducaturque KA. mani-
+festum igitur propter conuersionem theorematis supra
+citati [1‚ 38]‚ rectam ΚΑ sectionem contingere.
+
+sin punctum in spatio inter ΖΘ, ΘΠ posito datum
+erit, problema effici non poterit. nam recta contingens
+rectam ΗΘ secabit3 quare oum utraque ΖΘ, ΘΠ
+conoidet3 quod fieri non potest propter ea, quae
+
+demonstrauimus in prop. XXXI libri primi et in tertia
+huius libri.
+
+Iisdem suppositis sectio ellipsis sit datumque
+punctum A in sectione positum, et oporteat ab A
+rectam sectionem contingentem ducere. factum sit,
+sitque ΑΗ, et ab A ad axem ΒΓ ordinate ducatur
+
+ 
+

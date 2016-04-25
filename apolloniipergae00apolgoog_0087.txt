@@ -1,0 +1,39 @@
+CONICORUM LIBER Ι.
+
+XIII.
+
+si conus per axem plano secatur, secatur autem
+alio qnoque plano, quod cum utroque latere trianguli
+per axem positi concurrit, sed neque basi coni parallelum
+ducitur neque e contrario, et si planum, inquo est
+basis coni, planumque secans concurrunt in recta
+perpendiculari aut ad basim trianguli per axem positi
+aut ad eam productam, quaelibet recta, quae a sectione
+coni communi sectioni planorum parallela ducitur, ad
+diametrum sectionis sumpta quadrata aequalis erit
+spatio adplicato rectae cuidam, ad quam diametrus
+sectionis rationem habet, quam habet quadratum rectae
+a uertice coni diametro sectionis parallelae ductae us-
+que ad basim trianguli ad rectangulum comprehensum
+rectis ab ea ad latera trianguli abscisis, latitudinem
+habens rectam ab ea e diametro ad uerticem sectionis
+abscisam et figura deficiens simili similiterque posita
+rectangnlo a diametro parametroque comprehenso,
+uocetur autem talis sectio ellipsis.
+
+sit conus, cuius uertex sit A punctum, basis autem
+ΒΓ circulus, et per axem plano secetur, quod sectionem
+efficiat triangulum ΑΒΓ, secetur autem alio quoque
+plano, quod cum utroque latere trianguli per axem
+positi concurrat, sed neque basi coni parallelum neque
+e contrario ductum sit, et in superficie coni sectionem
+efficiat lineam AE3 communis autem sectio plani
+secantis eiusque plani, in quo est basis coni, sit ZH
+ad ΒΓ perpendicularis, diametrus autem sectionis sit
+EA, et ab Ε ad EA perpendicularis ducatur Ee, per
+A autem rectae EA parallelo ducatur ΑΚ, et fiat
+
+Apollonius, ed. Heiberg. 4
+
+ 
+

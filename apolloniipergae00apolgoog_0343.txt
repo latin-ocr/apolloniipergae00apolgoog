@@ -1,0 +1,41 @@
+comcoauu amaa 111. 325
+
+antea diximus, sumantur autem in sectione duo quae-
+libet puncta Z, H, et per Z contingentibus parallelae
+ducantur ΖΘΚΑ, ΝΖΙΜ, per H autem ΗΞΟ, ΘΠΡ.
+dico, esse AH= Mo, AN = ΡΝ.
+
+quoniam enim antea demonstrauimus [prop. Π], csse
+ΡΠΑ = ΓΗ, AMI = ΓΖ, et AP11= AMI -Ι- ΠΜ,
+erit etiam ΓΗ = ΓΖ -l- HM. itaque ΓΗ = ΓΘ -Ι- ΡΖ.
+auferatur, quod commune est, ΓΘ, reliquum igitur
+AH = cM. ergo AN = ΡΝ.
+
+IV.
+
+Si duae rectae sectiones oppositas contingentes
+inter se concurrunt, et per puncta contactus diametri
+ducuntur cum contingentibus concurrentes, trianguli
+ad contingentes positi aequales erunt.
+
+sint A, Β sectiones oppositae, easque contingentes
+ΑΓ, ΒΓ in Γ concurrant, centrum autem sectionum
+
+¹ sit A, duceturque
+,ι ΑΒ et ΓΔ, quae
+ad E producatur,
+et ducantur etiem
+A A, B A produ-
+canturque ad Z, H.
+i θ dico, esse
+ΑΗΔ =· BAZ
+etA Γ Ζ = ΒΓΗ.
+per Θ enim sectionem contingens ducatur osi, ea
+igitur rectae ΑΗ parallelo eet [Eutooius ad Ι, 44].
+et quoniam est [1‚ 30] AA = Aa, erit ΑΗΔ = ΘΛΔ
+[Eucl. VI, 19]. est autem ΔΘΑ = ΒΔΖ [prop. 1];
+
+quare etiam ΑΗΔ = ΒΔ Ζ. ergo etiam A ΓΖ = Β Γ Η.
+
+ 
+
